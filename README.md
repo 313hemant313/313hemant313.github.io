@@ -5,12 +5,14 @@ Adaptable Solution Architect with 5+ years of hands-on experience in Java and An
 
 ## Public projects and articles
 
-- <a href="https://github.com/313hemant313/TheBasic" />
+- 
+<a href="https://github.com/313hemant313/TheBasic" />
 <img src="TheBasic.JPG" width="350">
 
 A Spring boot user authentication boilerplate with S3 Image upload.
 
-- - <a href="https://thegamemusic.me" />
+- 
+<a href="https://thegamemusic.me" />
 <img src="TheGameMusic_cover.png" width="350">
 
 A live streaming internet radio mobile and web application deployed on aws infrastructure.
