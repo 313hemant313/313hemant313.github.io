@@ -1,5 +1,5 @@
 ## Welcome To TheGameDefault Profile
-![TheGameDefault](http://313hemant313.github.io/TheGameDefault-Banner.png"TheGameDefault")
+![TheGameDefault](./TheGameDefault-Banner.png"TheGameDefault")
 
 Adaptable Solution Architect with 5+ years of hands-on experience in Java and Angular, Designing high volume/user server-less applications mostly deployed on aws with CI/CD.
 
@@ -7,11 +7,11 @@ Adaptable Solution Architect with 5+ years of hands-on experience in Java and An
 # Public projects and articles
 
 - [TheGameMusic](https://thegamemusic.me"TheGameMusic")
-![TheGameMusic](http://313hemant313.github.io/TheGameMusic_cover.png "TheGameMusic")
+![TheGameMusic](./TheGameMusic_cover.png "TheGameMusic")
 A live streaming internet radio mobile and web application deployed on aws infrastructure.
 
 - [TheBasic](https://github.com/313hemant313/TheBasic "TheBasic")
-![](TheBasic.JPG)
+![](./TheBasic.JPG)
 A Spring boot user authentication boilerplate with S3 Image upload.
 
 - Stories on medium.com
