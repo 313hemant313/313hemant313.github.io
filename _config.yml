@@ -1,3 +1,5 @@
 theme: jekyll-theme-hacker
 title: TheGameDefault
 description: "Load Profile> Hemant a.k.a. TheGameDefault"
+github:
+  is_project_page: false
