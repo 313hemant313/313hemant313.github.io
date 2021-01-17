@@ -1,5 +1,5 @@
 ## Welcome to TheGameDefault profile
-<img src="TheGameDefault-Banner.png" width="600">
+<img src="TheGameDefault-Banner.png">
 
 Adaptable Solution Architect with 5+ years of hands-on experience in Java and Angular, Designing high volume/user server-less applications mostly deployed on aws with CI/CD.
 
