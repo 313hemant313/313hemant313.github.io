@@ -5,15 +5,15 @@ Adaptable Solution Architect with 5+ years of hands-on experience in Java and An
 
 ## Public projects and articles
 
-- A Spring boot user authentication boilerplate with S3 Image upload.
+- **[TheBasic](https://github.com/313hemant313/TheBasic "TheBasic")**: A Spring boot user authentication boilerplate with S3 Image upload.
 <a href="https://github.com/313hemant313/TheBasic" />
 <img src="TheBasic.JPG" width="350">
 
-- A live streaming internet radio mobile and web application deployed on aws infrastructure.
+- **[TheGameMusic](https://thegamemusic.me "TheGameMusic")**: A live streaming internet radio mobile and web application deployed on aws infrastructure.
 <a href="https://thegamemusic.me" />
 <img src="TheGameMusic_cover.png" width="350">
 
-- Articles
+- **[Articles](https://thegamedefault.medium.com "Articles")**
   * [Media server setup and configuration](https://thegamedefault.medium.com/create-your-own-media-streaming-platform-using-open-source-technologies-90f08138465b "Media server setup and configuration")
   * [Audio/Video broadcasting backend development using java spring websockets](https://thegamedefault.medium.com/create-your-own-media-streaming-platform-using-open-source-technologies-part-2-e718455bd46e "Audio/Video broadcasting backend development using java spring websockets")
 
