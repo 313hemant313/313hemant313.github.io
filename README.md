@@ -1,37 +1,28 @@
-## Welcome to GitHub Pages
+## Welcome To TheGameDefault Profile
+![TheGameDefault](http://313hemant313.github.io/TheGameDefault-Banner.png"TheGameDefault")
 
-You can use the [editor on GitHub](https://github.com/313hemant313/313hemant313.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Adaptable Solution Architect with 5+ years of hands-on experience in Java and Angular, Designing high volume/user server-less applications mostly deployed on aws with CI/CD.
 
 ```markdown
-Syntax highlighted code block
+# Public projects and articles
 
-# Header 1
-## Header 2
-### Header 3
+- [TheGameMusic](https://thegamemusic.me"TheGameMusic")
+![TheGameMusic](http://313hemant313.github.io/TheGameMusic_cover.png "TheGameMusic")
+A live streaming internet radio mobile and web application deployed on aws infrastructure.
 
-- Bulleted
-- List
+- [TheBasic](https://github.com/313hemant313/TheBasic "TheBasic")
+![](TheBasic.JPG)
+A Spring boot user authentication boilerplate with S3 Image upload.
 
-1. Numbered
-2. List
+- Stories on medium.com
+- - [Media server setup and configuration](https://thegamedefault.medium.com/create-your-own-media-streaming-platform-using-open-source-technologies-90f08138465b "Media server setup and configuration")
+-- [Audio/Video broadcasting backend development using java spring websockets](https://thegamedefault.medium.com/create-your-own-media-streaming-platform-using-open-source-technologies-part-2-e718455bd46e "Audio/Video broadcasting backend development using java spring websockets")
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
 ```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/313hemant313/313hemant313.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+- [Twitter](https://twitter.com/313hitman313 "Twitter")
+- [Google Playstore](https://play.google.com/store/apps/dev?id=7450136738745874896 "Google Playstore")
+- [Medium](https://thegamedefault.medium.com/ "Medium")
+- [Email](mailto:v313hemant@gmail.com "Email")
