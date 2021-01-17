@@ -9,9 +9,9 @@ Adaptable Solution Architect with 5+ years of hands-on experience in Java and An
 <a href="https://github.com/313hemant313/TheBasic" />
 <img src="TheBasic.JPG" width="350">
 
-- **[TheGameMusic](https://thegamemusic.me "TheGameMusic")**: A live streaming internet radio mobile and web application deployed on aws infrastructure.
+- **[TheGameMusic](https://thegamemusic.me "TheGameMusic")**: A live streaming internet radio mobile and web application.
 <a href="https://thegamemusic.me" />
-<img src="TheGameMusic_cover.png" width="320">
+<img src="TheGameMusic_cover.png" width="300">
 
 - **[Articles](https://thegamedefault.medium.com "Articles")**
   * [Media server setup and configuration](https://thegamedefault.medium.com/create-your-own-media-streaming-platform-using-open-source-technologies-90f08138465b "Media server setup and configuration")
