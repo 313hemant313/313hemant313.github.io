@@ -18,7 +18,7 @@ Adaptable Solution Architect with hands-on experience in Java and Angular, Desig
 - **[Media server setup and configuration](https://thegamedefault.medium.com/create-your-own-media-streaming-platform-using-open-source-technologies-90f08138465b "Media server setup and configuration")**
 - **[Audio/Video broadcasting backend development using java spring websockets](https://thegamedefault.medium.com/create-your-own-media-streaming-platform-using-open-source-technologies-part-2-e718455bd46e "Audio/Video broadcasting backend development using java spring websockets")**
 
-### Support or Contact
+## Support or Contact
 
 - [Linkedin](https://www.linkedin.com/in/313hemant313/)
 - [Twitter](https://twitter.com/313hitman313 "Twitter")
