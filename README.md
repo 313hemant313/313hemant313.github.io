@@ -1,5 +1,5 @@
 # Welcome to TheGameDefault profile
-<img src="TheGameDefault-Banner.png">
+<img src="TheGameDefault-Banner.png" width="750">
 
 Adaptable Solution Architect with hands-on experience in Java, Python and Angular, Designing high volume distributed applications using IaaS to Server-less systems.
 
