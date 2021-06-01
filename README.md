@@ -19,9 +19,9 @@ Adaptable Solution Architect with hands-on experience in Java, Python and Angula
  &nbsp;
  
 - **[Camunda Order Workflow](https://github.com/313hemant313/camunda_order_workflow "camunda_order_workflow")**: Camunda for microservices orchestration, In the project we have tried to cover Order processing scenario, and our main focus is on visibility/monitoring of the whole system and its configuration which could be changed in runtime.
+<a href="https://github.com/313hemant313/camunda_order_workflow" />
 <img src="CamundaOrderWorkflow.png" width="350">
 
- 
 ## Public articles
 
 - **[Media server setup and configuration](https://thegamedefault.medium.com/create-your-own-media-streaming-platform-using-open-source-technologies-90f08138465b "Media server setup and configuration")**
