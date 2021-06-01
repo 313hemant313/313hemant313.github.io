@@ -8,19 +8,19 @@ Adaptable Solution Architect with hands-on experience in Java, Python and Angula
  &nbsp;
 - **[TheGameMusic](https://thegamemusic.me "TheGameMusic")**: A live streaming internet radio mobile and web application.<br />
 <a href="https://thegamemusic.me" />
-<img src="TheGameMusic_cover.png" width="300" style="border-radius:30px;">
+<img src="TheGameMusic_cover.png" width="300" style="border-radius:30px;margin: 20px;">
 
 <p>&nbsp;</p>
  
 - **[TheBasic](https://github.com/313hemant313/TheBasic "TheBasic")**: A Spring boot user authentication boilerplate with S3 Image upload.<br />
 <a href="https://github.com/313hemant313/TheBasic" />
-<img src="TheBasic.JPG" width="350" style="border-radius:30px;">
+<img src="TheBasic.JPG" width="350" style="border-radius:30px;margin: 20px;">
 
 <p>&nbsp;</p>
  
 - **[Camunda Order Workflow](https://github.com/313hemant313/camunda-order-workflow "camunda-order-workflow")**: Camunda for microservices orchestration, In the project we have tried to cover Order processing scenario, and our main focus is on visibility/monitoring of the whole system and its configuration which could be changed in runtime. <br>
 <a href="https://github.com/313hemant313/camunda-order-workflow" />
-<img src="CamundaOrderWorkflow.png" width="350" style="border-radius:30px;">
+<img src="CamundaOrderWorkflow.png" width="350" style="border-radius:30px;margin: 20px;">
 
 ## Public articles
 
