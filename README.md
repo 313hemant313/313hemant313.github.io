@@ -22,6 +22,19 @@ Adaptable Solution Developer with hands-on experience in Java, Python and Angula
 <a href="https://github.com/313hemant313/camunda-order-workflow" />
 <img src="CamundaOrderWorkflow.png" width="350" style="border-radius:30px;margin: 20px;">
 
+<p>&nbsp;</p>
+
+## Ionic open source projects
+<p align="center">
+  <img alt="ionic" src="ionic.png" width="45%" style="border-radius:30px;margin: 20px;">
+&nbsp; &nbsp; &nbsp; &nbsp;
+  <img alt="capacitor" src="ionic-capacitor.png" width="45%" style="border-radius:30px;margin: 20px;">
+</p>
+
+- **[Android Detect Incoming/Outgoing Calls](https://github.com/313hemant313/capacitor-plugin-incoming-call "capacitor-plugin-incoming-call")**: An ionic capacitor plugin which detects the phone states like incoming, outgoing and on-hold calls. <br>
+- **[Android Wallpaper Manager](https://github.com/313hemant313/capacitor-plugin-wallpaper-manager "capacitor-plugin-wallpaper-manager")**: An ionic capacitor plugin to apply any wallpaper from external url. <br>
+
+
 ## Public articles
 
 - **[Media server setup and configuration](https://thegamedefault.medium.com/create-your-own-media-streaming-platform-using-open-source-technologies-90f08138465b "Media server setup and configuration")**
