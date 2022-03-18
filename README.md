@@ -26,9 +26,9 @@ Adaptable Solution Developer with hands-on experience in Java, Python and Angula
 
 ## Ionic open source projects
 <p align="center">
-  <img alt="ionic" src="ionic.png" width="45%" style="border-radius:30px;margin: 20px;">
+  <img alt="ionic" src="ionic.png" width="350" style="border-radius:30px;margin: 20px;">
 &nbsp; &nbsp; &nbsp; &nbsp;
-  <img alt="capacitor" src="ionic-capacitor.png" width="45%" style="border-radius:30px;margin: 20px;">
+  <img alt="capacitor" src="ionic-capacitor.png" width="350" style="border-radius:30px;margin: 20px;">
 </p>
 
 - **[Android Detect Incoming/Outgoing Calls](https://github.com/313hemant313/capacitor-plugin-incoming-call "capacitor-plugin-incoming-call")**: An ionic capacitor plugin which detects the phone states like incoming, outgoing and on-hold calls. <br>
