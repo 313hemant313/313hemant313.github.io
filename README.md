@@ -18,6 +18,12 @@ Adaptable Solution Developer with hands-on experience in Java, Python and Angula
 
 <p>&nbsp;</p>
  
+- **[TheGameNotification](https://github.com/313hemant313/TheGameNotification "TheGameNotification")**: A Spring boot standalone notification service with kafka consumer, AWS Pinpoint and Facebook Whatsapp api's connectors.<br />
+<a href="https://github.com/313hemant313/TheGameNotification" />
+<img src="TheGameNotification.png" width="350" style="border-radius:30px;margin: 20px;">
+
+<p>&nbsp;</p>
+ 
 - **[Camunda Order Workflow](https://github.com/313hemant313/camunda-order-workflow "camunda-order-workflow")**: Camunda for microservices orchestration, In the project we have tried to cover Order processing scenario, and our main focus is on visibility/monitoring of the whole system and its configuration which could be changed in runtime. <br>
 <a href="https://github.com/313hemant313/camunda-order-workflow" />
 <img src="CamundaOrderWorkflow.png" width="350" style="border-radius:30px;margin: 20px;">
