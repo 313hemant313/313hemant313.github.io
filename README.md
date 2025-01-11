@@ -1,7 +1,7 @@
 # Welcome to TheGameDefault profile
 <img src="TheGameDefault-Banner.png" width="750" style="border-radius:30px;">
 
-Adaptable Solution Developer with hands-on experience in Java, Python and Angular, Designing high volume distributed applications using IaaS to Server-less systems.
+Versatile Software Developer with expertise in Java, Python, and Angular, specializing in designing high-performance distributed applications, from bare-metal to serverless architectures.
 
 ## Public projects
 
@@ -21,6 +21,13 @@ Adaptable Solution Developer with hands-on experience in Java, Python and Angula
 - **[TheGameNotification](https://github.com/313hemant313/TheGameNotification "TheGameNotification")**: A Spring boot standalone notification service with kafka consumer, AWS Pinpoint and Facebook Whatsapp api's connectors.<br />
 <a href="https://github.com/313hemant313/TheGameNotification" />
 <img src="TheGameNotification.png" width="350" style="border-radius:30px;margin: 20px;">
+
+<p>&nbsp;</p>
+
+- **[TheGameKafka](https://github.com/313hemant313/TheGameKafka "TheGameKafka")**: A dynamic message consumer/producer providing multicluster producer and consumer client support and
+with added support for customized Non blocking retry.<br />
+<a href="https://github.com/313hemant313/TheGameKafka" />
+<img src="TheGameKafka.png" width="350" style="border-radius:30px;margin: 20px;">
 
 <p>&nbsp;</p>
  
