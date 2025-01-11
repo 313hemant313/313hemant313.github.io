@@ -3,6 +3,8 @@
 
 Versatile Software Developer with expertise in Java, Python, and Angular, specializing in designing high-performance distributed applications, from bare-metal to serverless architectures.
 
+<img src="WorkedWithCompanies.png" width="300" style="border-radius:30px;margin: 20px;">
+
 ## Public projects
  &nbsp;
 - **[TheGameMusic](https://thegamemusic.me "TheGameMusic")**: A live streaming internet radio mobile and web application.<br />
