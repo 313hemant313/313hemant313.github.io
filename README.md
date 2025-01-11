@@ -1,4 +1,4 @@
-# Welcome to TheGameDefault profile
+# TheGameDefault Profile
 <img src="TheGameDefault-Banner.png" width="550" style="border-radius:30px;">
 
 Versatile Software Developer with expertise in Java, Python, and Angular, specializing in designing high-performance distributed applications, from bare-metal to serverless architectures.
