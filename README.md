@@ -11,8 +11,8 @@ Versatile Software Developer with expertise in Java, Python, and Angular, specia
 
 <p>&nbsp;</p>
  
-- **[TheBasic](https://github.com/313hemant313/Wrappyj "Wrappyj")**: WrapPyJ - Auto‑generate Java wrappers for any Python library.<br />
-<a href="https://github.com/313hemant313/Wrappyj" />
+- **[WrapPyJ](https://github.com/313hemant313/WrapPyJ "WrapPyJ")**: WrapPyJ - Auto‑generate Java wrappers for any Python library.<br />
+<a href="https://github.com/313hemant313/wrappyj" />
 <img src="wrappyj_banner.png" width="350" style="border-radius:30px;margin: 20px;">
 
 <p>&nbsp;</p>
